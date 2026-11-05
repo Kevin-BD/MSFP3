@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ' Práctica 3: Modelado y control del sistema musculoesquelético'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Kevin '
+    family-names: 'Rodriguez Padilla '
+    email: l22210428@tectijuana.edu.mx
+    affiliation: 'TecNM / IT tijuana '
+repository-code: 'https://github.com/Kevin-BD/MSFP3'
+keywords:
+  - Modelo musculoesquelético
+  - Analogía fuerza-voltaje
+  - Atrofia muscular
+  - Propiedades viscoelásticas
+  - Controlador PID
+  - Simulaciones in silico
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-04'
